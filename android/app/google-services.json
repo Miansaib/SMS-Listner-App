@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034631679374",
+    "project_id": "sms-listener-pp",
+    "storage_bucket": "sms-listener-pp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034631679374:android:b8dc3aa33e418e278fe8df",
+        "android_client_info": {
+          "package_name": "com.example.sms_listrning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzMdj4YmdnC1g_d7DN34U9_QCzxc7XzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
